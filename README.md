@@ -10,7 +10,7 @@ GitHub: Jey-EL
 
 ## Repository
 
-https://github.com/Jey-EL/NewsFeedSimulator
+https://github.com/Jey-EL/MyProfileApp
 
 ## Deskripsi
 
