@@ -8,6 +8,10 @@ Nama: Jundi Lamtara
 NIM: 124140190  
 GitHub: Jey-EL  
 
+## Repository
+
+https://github.com/Jey-EL/NewsFeedSimulator
+
 ## Deskripsi
 
 My Profile App merupakan aplikasi sederhana yang menampilkan informasi profil pengguna.
