@@ -56,6 +56,6 @@ Aplikasi juga menggunakan reusable composable:
 
 <img width="720" height="1600" alt="show contact" src="https://github.com/user-attachments/assets/6fc7fee4-4453-4f63-ae20-0963540beac8" />
 
-### 1. Hide Contact
+### 2. Hide Contact
 
 <img width="720" height="1600" alt="hide contact" src="https://github.com/user-attachments/assets/df1337a5-ac9e-41f5-b479-c3ad0e66f85d" />
